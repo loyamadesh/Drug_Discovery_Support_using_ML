@@ -1,0 +1,1201 @@
+Drug_Name,SMILES,Target,Activity,Molecular_Weight,LogP,H_Donors,H_Acceptors
+Prednisone_1,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,348.36,2.22,3,3
+Losartan_2,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,410.63,0.78,5,10
+Aspirin_3,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,175.95,4.29,4,10
+Naproxen_4,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,239.57,5.93,1,7
+Prednisone_5,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,361.9,4.03,1,2
+Clopidogrel_6,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,320.76,2.83,4,8
+Atorvastatin_7,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,572.23,4.25,4,3
+Ibuprofen_8,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,218.55,5.97,2,8
+Lisinopril_9,CC(C)CC(C(=O)O)N,ACE,Inactive,407.23,3.58,4,2
+Clopidogrel_10,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,321.07,2.95,3,7
+Atorvastatin_11,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,565.07,4.47,2,1
+Paracetamol_12,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,150.14,2.65,5,3
+Lisinopril_13,CC(C)CC(C(=O)O)N,ACE,Inactive,418.3,5.44,2,8
+Azithromycin_14,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,750.3,-0.61,5,8
+Lisinopril_15,CC(C)CC(C(=O)O)N,ACE,Active,407.44,1.61,1,7
+Simvastatin_16,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,413.54,3.17,0,1
+Losartan_17,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,410.96,-0.03,4,3
+Caffeine_18,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,180.3,4.51,4,7
+Naproxen_19,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,217.97,-0.28,2,7
+Prednisone_20,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,360.3,0.16,3,10
+Diclofenac_21,COC1=CC=C(C=C1)C(O)=O,COX,Active,303.94,5.62,5,2
+Atorvastatin_22,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,569.17,3.33,5,10
+Clopidogrel_23,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,332.3,3.63,0,10
+Hydrochlorothiazide_24,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,287.94,3.67,5,10
+Aspirin_25,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,188.32,1.87,1,6
+Morphine_26,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,286.57,2.65,2,6
+Morphine_27,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,271.32,5.55,5,10
+Ibuprofen_28,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,201.5,-0.48,0,8
+Hydrochlorothiazide_29,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,298.13,-0.75,2,1
+Losartan_30,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,427.25,3.81,1,10
+Losartan_31,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,415.22,-0.8,0,10
+Azithromycin_32,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,734.45,0.02,5,9
+Paracetamol_33,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,146.38,1.5,1,4
+Naproxen_34,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,216.17,5.57,2,7
+Morphine_35,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,284.64,1.19,1,4
+Amlodipine_36,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,403.26,1.78,4,1
+Omeprazole_37,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,341.82,1.1,0,8
+Naproxen_38,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,229.92,0.77,2,0
+Caffeine_39,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,198.11,2.53,1,2
+Atorvastatin_40,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,561.22,4.67,2,8
+Paracetamol_41,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,163.24,5.47,4,9
+Caffeine_42,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,180.73,5.67,5,8
+Amlodipine_43,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,397.46,4.63,1,7
+Paracetamol_44,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,159.97,4.51,1,2
+Lisinopril_45,CC(C)CC(C(=O)O)N,ACE,Inactive,417.13,2.12,0,3
+Azithromycin_46,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,755.94,0.7,5,9
+Paracetamol_47,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,155.03,5.74,0,0
+Paracetamol_48,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,153.54,1.09,2,9
+Clopidogrel_49,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,307.34,2.41,0,2
+Paracetamol_50,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,145.97,4.07,4,1
+Diclofenac_51,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,302.51,0.18,1,2
+Naproxen_52,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,243.47,5.04,5,2
+Losartan_53,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,432.93,-0.35,1,8
+Simvastatin_54,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,410.83,5.65,1,3
+Warfarin_55,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,318.36,4.58,1,2
+Lisinopril_56,CC(C)CC(C(=O)O)N,ACE,Active,398.49,2.19,0,9
+Lisinopril_57,CC(C)CC(C(=O)O)N,ACE,Active,412.87,-0.95,3,0
+Morphine_58,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,279.51,2.17,1,6
+Warfarin_59,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,316.9,0.01,4,10
+Atorvastatin_60,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,566.74,0.2,2,10
+Simvastatin_61,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,405.6,0.66,4,8
+Hydrochlorothiazide_62,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,309.66,4.09,1,1
+Losartan_63,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,410.47,0.25,1,8
+Atorvastatin_64,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,557.06,3.23,0,4
+Aspirin_65,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,166.22,0.31,5,3
+Losartan_66,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,430.37,2.11,3,0
+Morphine_67,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,289.62,2.41,3,10
+Simvastatin_68,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,423.59,2.56,3,6
+Omeprazole_69,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,339.29,0.16,4,8
+Naproxen_70,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,238.53,5.5,4,4
+Caffeine_71,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,191.39,3.79,2,1
+Simvastatin_72,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,412.95,-0.99,5,0
+Metformin_73,CNC(=N)NC(=N)N,AMPK,Active,125.07,5.88,4,10
+Paracetamol_74,CC(=O)NC1=CC=C(O)C=C1,COX,Active,154.15,4.83,2,6
+Azithromycin_75,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,734.75,5.24,0,10
+Metformin_76,CNC(=N)NC(=N)N,AMPK,Inactive,140.95,3.65,4,4
+Paracetamol_77,CC(=O)NC1=CC=C(O)C=C1,COX,Active,142.05,-0.6,5,9
+Paracetamol_78,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,146.25,5.43,3,2
+Omeprazole_79,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,344.54,-0.43,5,7
+Naproxen_80,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,236.48,4.54,0,0
+Metformin_81,CNC(=N)NC(=N)N,AMPK,Active,115.73,5.9,4,3
+Clopidogrel_82,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,310.55,0.19,4,4
+Clopidogrel_83,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,329.57,1.23,0,0
+Ibuprofen_84,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,196.64,4.69,0,7
+Azithromycin_85,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,745.06,-0.26,0,7
+Azithromycin_86,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,754.19,2.13,2,8
+Ibuprofen_87,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,196.14,2.53,2,7
+Warfarin_88,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,303.05,3.91,1,5
+Clopidogrel_89,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,329.79,-0.61,2,0
+Diclofenac_90,COC1=CC=C(C=C1)C(O)=O,COX,Active,297.35,3.76,4,10
+Paracetamol_91,CC(=O)NC1=CC=C(O)C=C1,COX,Active,142.06,1.67,2,2
+Paracetamol_92,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,145.96,0.25,0,2
+Prednisone_93,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,367.38,0.49,1,10
+Lisinopril_94,CC(C)CC(C(=O)O)N,ACE,Active,397.12,5.96,5,5
+Ibuprofen_95,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,205.52,0.13,0,0
+Paracetamol_96,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,142.34,-0.98,3,5
+Metformin_97,CNC(=N)NC(=N)N,AMPK,Active,140.12,0.2,3,3
+Hydrochlorothiazide_98,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,290.05,3.07,1,3
+Azithromycin_99,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,733.99,0.35,2,9
+Amlodipine_100,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,420.52,3.58,4,1
+Warfarin_101,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,320.51,2.12,1,2
+Simvastatin_102,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,406.97,3.82,5,2
+Losartan_103,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,434.21,5.05,0,2
+Omeprazole_104,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,343.34,1.69,1,4
+Amlodipine_105,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,410.3,1.49,3,7
+Atorvastatin_106,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,566.48,0.12,4,1
+Losartan_107,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,415.87,4.45,2,9
+Amoxicillin_108,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,375.44,5.15,3,10
+Simvastatin_109,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,419.56,0.67,4,4
+Paracetamol_110,CC(=O)NC1=CC=C(O)C=C1,COX,Active,152.75,-0.61,4,7
+Warfarin_111,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,315.19,1.52,4,6
+Naproxen_112,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,230.45,0.36,0,8
+Prednisone_113,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,360.77,-0.19,2,2
+Atorvastatin_114,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,545.14,5.91,3,3
+Losartan_115,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,429.72,2.93,1,10
+Caffeine_116,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,195.44,1.99,0,9
+Clopidogrel_117,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,317.71,1.97,0,4
+Amlodipine_118,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,422.67,2.12,5,0
+Amoxicillin_119,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,354.89,0.41,5,0
+Diclofenac_120,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,287.69,2.38,3,8
+Diclofenac_121,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,291.41,5.76,1,8
+Amlodipine_122,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,395.77,5.06,1,6
+Losartan_123,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,437.02,1.63,1,2
+Hydrochlorothiazide_124,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,288.04,5.84,0,3
+Simvastatin_125,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,411.47,2.74,5,8
+Amoxicillin_126,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,374.92,-0.97,0,1
+Warfarin_127,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,300.71,1.23,5,8
+Omeprazole_128,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,331.25,3.77,0,4
+Metformin_129,CNC(=N)NC(=N)N,AMPK,Inactive,124.86,-0.5,1,0
+Ibuprofen_130,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,199.76,3.61,1,2
+Losartan_131,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,435.05,1.63,3,2
+Metformin_132,CNC(=N)NC(=N)N,AMPK,Inactive,137.19,5.87,4,10
+Warfarin_133,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,310.08,2.83,0,0
+Amoxicillin_134,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,366.45,4.91,4,2
+Lisinopril_135,CC(C)CC(C(=O)O)N,ACE,Inactive,391.86,3.07,3,3
+Lisinopril_136,CC(C)CC(C(=O)O)N,ACE,Active,399.71,-0.38,1,2
+Amoxicillin_137,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,355.89,3.55,4,3
+Naproxen_138,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,237.17,0.15,2,2
+Naproxen_139,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,219.48,4.31,4,2
+Amoxicillin_140,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,378.21,4.55,1,0
+Azithromycin_141,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,734.41,0.51,0,9
+Lisinopril_142,CC(C)CC(C(=O)O)N,ACE,Inactive,420.2,0.73,0,10
+Metformin_143,CNC(=N)NC(=N)N,AMPK,Inactive,120.73,-0.94,5,3
+Metformin_144,CNC(=N)NC(=N)N,AMPK,Inactive,122.41,0.48,3,6
+Aspirin_145,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,193.87,2.64,3,2
+Ibuprofen_146,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,211.18,2.32,4,7
+Amoxicillin_147,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,372.71,3.26,5,8
+Losartan_148,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,427.04,2.27,5,6
+Morphine_149,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,287.84,3.74,3,2
+Paracetamol_150,CC(=O)NC1=CC=C(O)C=C1,COX,Active,164.11,2.74,2,7
+Clopidogrel_151,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,317.09,-0.61,5,0
+Losartan_152,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,421.4,1.88,5,2
+Morphine_153,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,289.94,1.4,4,2
+Paracetamol_154,CC(=O)NC1=CC=C(O)C=C1,COX,Active,152.88,1.84,5,1
+Amlodipine_155,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,409.18,5.76,2,1
+Caffeine_156,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,199.66,1.85,1,0
+Paracetamol_157,CC(=O)NC1=CC=C(O)C=C1,COX,Active,154.12,5.07,5,5
+Hydrochlorothiazide_158,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,285.25,-0.47,5,8
+Naproxen_159,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,241.02,5.87,4,6
+Losartan_160,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,430.05,1.47,0,10
+Losartan_161,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,410.07,0.87,1,8
+Prednisone_162,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,356.58,5.97,0,4
+Azithromycin_163,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,740.52,-0.61,4,5
+Amlodipine_164,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,404.59,5.39,5,7
+Naproxen_165,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,223.27,0.59,5,7
+Hydrochlorothiazide_166,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,305.89,-0.75,3,0
+Morphine_167,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,282.95,3.64,4,9
+Atorvastatin_168,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,545.98,3.01,4,6
+Simvastatin_169,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,417.22,1.29,3,1
+Clopidogrel_170,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,320.11,5.45,5,10
+Paracetamol_171,CC(=O)NC1=CC=C(O)C=C1,COX,Active,144.11,0.89,3,7
+Ibuprofen_172,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,200.91,3.08,1,6
+Paracetamol_173,CC(=O)NC1=CC=C(O)C=C1,COX,Active,152.79,1.18,1,6
+Losartan_174,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,436.78,2.77,1,7
+Hydrochlorothiazide_175,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,283.09,0.52,2,10
+Morphine_176,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,278.62,0.38,0,5
+Atorvastatin_177,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,554.15,3.47,5,10
+Lisinopril_178,CC(C)CC(C(=O)O)N,ACE,Inactive,407.58,2.24,4,1
+Aspirin_179,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,192.71,5.04,2,0
+Azithromycin_180,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,755.85,1.02,1,5
+Simvastatin_181,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,409.62,-0.43,5,0
+Omeprazole_182,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,339.39,5.65,4,9
+Morphine_183,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,297.46,1.55,1,1
+Naproxen_184,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,219.32,5.28,0,6
+Naproxen_185,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,243.54,-0.38,3,10
+Simvastatin_186,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,425.89,1.71,4,0
+Atorvastatin_187,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,556.24,2.42,4,3
+Lisinopril_188,CC(C)CC(C(=O)O)N,ACE,Inactive,395.38,3.43,1,1
+Amoxicillin_189,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,369.8,1.73,4,8
+Atorvastatin_190,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,561.99,5.98,0,0
+Paracetamol_191,CC(=O)NC1=CC=C(O)C=C1,COX,Active,147.26,5.25,3,10
+Atorvastatin_192,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,544.85,1.52,4,5
+Warfarin_193,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,295.76,-0.04,0,3
+Warfarin_194,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,322.67,0.47,1,5
+Warfarin_195,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,302.81,1.63,3,0
+Aspirin_196,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,169.68,5.27,2,8
+Caffeine_197,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,207.87,0.14,1,4
+Atorvastatin_198,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,567.6,3.1,2,8
+Clopidogrel_199,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,331.03,-0.92,3,9
+Naproxen_200,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,224.66,5.17,1,2
+Losartan_201,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,420.44,-0.36,1,3
+Hydrochlorothiazide_202,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,303.89,2.96,2,7
+Caffeine_203,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,193.45,0.08,1,3
+Paracetamol_204,CC(=O)NC1=CC=C(O)C=C1,COX,Active,140.38,-0.21,5,5
+Morphine_205,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,286.85,-0.56,4,2
+Aspirin_206,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,189.58,3.42,5,4
+Diclofenac_207,COC1=CC=C(C=C1)C(O)=O,COX,Active,309.36,1.43,2,10
+Diclofenac_208,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,293.8,2.7,2,10
+Diclofenac_209,COC1=CC=C(C=C1)C(O)=O,COX,Active,303.65,0.94,2,2
+Amlodipine_210,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,413.32,4.31,1,0
+Hydrochlorothiazide_211,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,295.89,3.4,5,10
+Metformin_212,CNC(=N)NC(=N)N,AMPK,Active,143.37,2.72,3,6
+Ibuprofen_213,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,198.97,1.68,2,7
+Losartan_214,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,409.21,0.45,5,10
+Ibuprofen_215,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,219.85,2.53,0,2
+Clopidogrel_216,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,331.94,5.33,3,9
+Clopidogrel_217,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,313.3,-0.09,1,5
+Atorvastatin_218,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,554.4,3.99,3,3
+Naproxen_219,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,218.14,1.18,3,6
+Amlodipine_220,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,399.91,1.26,5,9
+Lisinopril_221,CC(C)CC(C(=O)O)N,ACE,Inactive,416.74,5.38,1,6
+Lisinopril_222,CC(C)CC(C(=O)O)N,ACE,Inactive,413.06,-0.52,2,0
+Amlodipine_223,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,408.73,3.27,0,3
+Warfarin_224,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,311.48,-0.95,3,1
+Prednisone_225,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,363.98,1.07,0,0
+Amlodipine_226,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,417.25,1.65,5,2
+Hydrochlorothiazide_227,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,285.29,3.38,2,8
+Prednisone_228,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,352.28,-0.92,2,10
+Simvastatin_229,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,431.93,5.7,5,3
+Omeprazole_230,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,333.95,4.15,5,2
+Ibuprofen_231,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,217.83,4.85,5,8
+Ibuprofen_232,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,220.54,1.43,4,9
+Losartan_233,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,437.24,1.32,0,10
+Diclofenac_234,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,303.99,1.79,3,8
+Morphine_235,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,288.04,-0.21,0,9
+Prednisone_236,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,363.27,-0.58,1,8
+Losartan_237,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,431.51,3.64,5,6
+Simvastatin_238,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,415.26,0.15,1,3
+Omeprazole_239,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,340.11,0.18,5,1
+Caffeine_240,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,204.75,4.18,0,0
+Aspirin_241,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,186.31,5.01,0,0
+Lisinopril_242,CC(C)CC(C(=O)O)N,ACE,Inactive,403.12,2.19,4,3
+Morphine_243,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,289.94,0.01,4,9
+Amlodipine_244,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,396.88,4.44,2,5
+Ibuprofen_245,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,194.24,1.78,1,2
+Paracetamol_246,CC(=O)NC1=CC=C(O)C=C1,COX,Active,153.87,4.51,0,7
+Prednisone_247,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,369.53,5.18,5,8
+Hydrochlorothiazide_248,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,305.71,5.33,2,0
+Caffeine_249,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,182.96,2.01,4,2
+Prednisone_250,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,357.03,0.31,2,8
+Paracetamol_251,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,152.56,3.62,2,8
+Losartan_252,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,434.56,3.4,1,0
+Paracetamol_253,CC(=O)NC1=CC=C(O)C=C1,COX,Active,151.87,1.65,2,9
+Ibuprofen_254,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,216.71,5.52,3,5
+Ibuprofen_255,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,210.5,5.65,0,1
+Amlodipine_256,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,423.62,4.19,4,2
+Diclofenac_257,COC1=CC=C(C=C1)C(O)=O,COX,Active,303.83,0.73,1,1
+Azithromycin_258,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,754.23,1.03,5,9
+Diclofenac_259,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,303.8,0.43,5,7
+Azithromycin_260,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,746.16,4.96,3,8
+Simvastatin_261,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,425.55,4.33,5,2
+Warfarin_262,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,295.71,1.86,5,2
+Lisinopril_263,CC(C)CC(C(=O)O)N,ACE,Inactive,409.74,2.8,5,6
+Omeprazole_264,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,356.08,1.67,4,8
+Atorvastatin_265,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,571.89,0.06,5,3
+Clopidogrel_266,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,326.26,4.64,4,0
+Atorvastatin_267,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,545.37,4.14,5,9
+Amlodipine_268,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,412.39,4.51,2,9
+Amlodipine_269,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,419.16,0.8,4,9
+Omeprazole_270,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,356.58,1.06,4,4
+Simvastatin_271,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,424.8,4.27,5,2
+Clopidogrel_272,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,309.94,1.05,3,4
+Morphine_273,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,277.27,-0.28,0,2
+Paracetamol_274,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,137.64,5.5,5,10
+Simvastatin_275,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,416.76,5.97,1,10
+Paracetamol_276,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,154.98,4.2,2,8
+Atorvastatin_277,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,560.88,1.89,4,4
+Clopidogrel_278,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,320.24,-0.6,3,3
+Hydrochlorothiazide_279,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,282.84,5.25,0,1
+Atorvastatin_280,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,559.62,3.44,4,7
+Amoxicillin_281,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,351.4,2.12,0,0
+Diclofenac_282,COC1=CC=C(C=C1)C(O)=O,COX,Active,284.78,0.42,4,4
+Hydrochlorothiazide_283,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,311.99,1.53,3,10
+Amlodipine_284,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,411.69,0.86,0,0
+Aspirin_285,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,183.77,3.31,1,3
+Clopidogrel_286,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,323.64,4.02,4,0
+Amlodipine_287,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,412.04,3.53,1,3
+Azithromycin_288,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,763.46,5.7,1,9
+Clopidogrel_289,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,324.58,3.77,4,0
+Aspirin_290,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,190.99,2.71,0,8
+Clopidogrel_291,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,315.12,5.01,3,4
+Prednisone_292,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,364.95,3.51,4,1
+Amoxicillin_293,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,370.01,0.01,4,1
+Prednisone_294,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,371.81,4.9,5,3
+Paracetamol_295,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,140.61,4.7,2,2
+Caffeine_296,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,179.57,2.73,4,0
+Atorvastatin_297,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,545.31,3.67,3,3
+Aspirin_298,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,171.84,3.12,4,9
+Morphine_299,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,289.23,0.67,3,1
+Losartan_300,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,409.02,-0.7,5,3
+Hydrochlorothiazide_301,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,295.47,0.66,5,1
+Omeprazole_302,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,350.83,-0.88,2,6
+Diclofenac_303,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,304.34,3.23,2,6
+Naproxen_304,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,242.15,1.87,0,4
+Clopidogrel_305,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,315.66,2.67,1,6
+Ibuprofen_306,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,219.77,5.46,1,4
+Warfarin_307,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,294.42,2.79,5,0
+Diclofenac_308,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,282.7,1.12,0,2
+Amoxicillin_309,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,350.72,1.27,3,6
+Aspirin_310,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,184.86,1.18,1,6
+Naproxen_311,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,237.38,0.98,1,8
+Diclofenac_312,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,288.75,1.32,2,1
+Atorvastatin_313,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,551.72,4.22,1,10
+Lisinopril_314,CC(C)CC(C(=O)O)N,ACE,Active,393.82,0.02,0,6
+Hydrochlorothiazide_315,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,287.23,4.99,0,9
+Diclofenac_316,COC1=CC=C(C=C1)C(O)=O,COX,Active,308.59,1.77,3,8
+Morphine_317,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,292.27,5.3,2,5
+Omeprazole_318,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,337.91,4.39,2,5
+Diclofenac_319,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,295.18,1.06,3,1
+Paracetamol_320,CC(=O)NC1=CC=C(O)C=C1,COX,Active,150.5,4.3,2,4
+Warfarin_321,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,297.68,3.74,5,1
+Diclofenac_322,COC1=CC=C(C=C1)C(O)=O,COX,Active,308.27,-0.65,2,6
+Simvastatin_323,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,406.77,-0.25,4,3
+Morphine_324,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,285.13,0.75,3,8
+Prednisone_325,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,368.48,3.75,3,3
+Simvastatin_326,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,416.7,5.18,3,0
+Morphine_327,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,288.24,0.33,2,6
+Paracetamol_328,CC(=O)NC1=CC=C(O)C=C1,COX,Active,157.22,4.23,1,2
+Naproxen_329,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,232.27,4.03,0,1
+Caffeine_330,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,180.35,3.56,3,5
+Amoxicillin_331,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,358.07,3.21,1,9
+Hydrochlorothiazide_332,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,292.97,1.43,3,10
+Azithromycin_333,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,746.12,-0.3,5,10
+Aspirin_334,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,167.73,2.79,3,7
+Simvastatin_335,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,427.76,4.39,5,0
+Losartan_336,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,415.17,6.0,5,2
+Warfarin_337,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,311.26,1.33,1,3
+Atorvastatin_338,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,555.03,-0.1,0,2
+Caffeine_339,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,186.29,-0.85,0,6
+Amlodipine_340,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,401.9,-0.45,1,9
+Metformin_341,CNC(=N)NC(=N)N,AMPK,Inactive,142.65,5.17,5,9
+Atorvastatin_342,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,562.63,5.96,5,2
+Aspirin_343,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,184.27,4.96,3,6
+Caffeine_344,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,183.89,4.6,1,8
+Morphine_345,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,274.37,2.93,3,8
+Hydrochlorothiazide_346,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,299.08,5.06,3,5
+Omeprazole_347,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,354.85,5.64,0,3
+Simvastatin_348,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,405.69,1.88,2,8
+Warfarin_349,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,307.93,0.45,3,7
+Azithromycin_350,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,758.59,2.86,1,4
+Azithromycin_351,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,749.95,2.22,5,3
+Omeprazole_352,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,345.05,0.32,5,9
+Lisinopril_353,CC(C)CC(C(=O)O)N,ACE,Active,409.34,2.02,1,1
+Omeprazole_354,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,330.69,0.65,5,3
+Prednisone_355,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,361.45,0.24,0,5
+Simvastatin_356,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,426.54,0.53,1,6
+Metformin_357,CNC(=N)NC(=N)N,AMPK,Inactive,127.11,3.94,5,8
+Clopidogrel_358,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,312.15,3.59,0,5
+Prednisone_359,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,362.77,5.49,0,7
+Caffeine_360,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,201.67,5.4,1,2
+Caffeine_361,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,207.75,4.47,1,10
+Amoxicillin_362,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,368.57,5.57,5,8
+Azithromycin_363,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,756.46,4.51,0,3
+Caffeine_364,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,198.12,1.48,5,1
+Azithromycin_365,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,750.1,1.89,3,7
+Caffeine_366,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,184.1,0.22,4,6
+Ibuprofen_367,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,201.97,0.65,4,1
+Morphine_368,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,289.78,3.48,1,2
+Lisinopril_369,CC(C)CC(C(=O)O)N,ACE,Active,411.22,-0.04,4,5
+Diclofenac_370,COC1=CC=C(C=C1)C(O)=O,COX,Active,292.77,3.1,3,0
+Hydrochlorothiazide_371,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,296.05,0.96,3,4
+Atorvastatin_372,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,572.12,3.56,3,6
+Ibuprofen_373,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,199.63,0.76,0,10
+Paracetamol_374,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,156.19,0.09,3,4
+Metformin_375,CNC(=N)NC(=N)N,AMPK,Inactive,127.98,4.27,5,4
+Amoxicillin_376,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,350.51,0.19,1,8
+Amoxicillin_377,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,368.93,4.41,1,3
+Morphine_378,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,297.5,1.23,0,2
+Metformin_379,CNC(=N)NC(=N)N,AMPK,Active,135.12,3.21,2,3
+Diclofenac_380,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,285.06,4.25,0,10
+Lisinopril_381,CC(C)CC(C(=O)O)N,ACE,Active,390.83,2.03,1,4
+Azithromycin_382,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,743.0,-0.95,4,1
+Metformin_383,CNC(=N)NC(=N)N,AMPK,Active,129.31,0.01,2,5
+Atorvastatin_384,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,547.13,0.98,2,1
+Amlodipine_385,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,406.89,2.57,5,3
+Naproxen_386,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,222.6,0.78,2,9
+Simvastatin_387,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,421.34,0.3,1,2
+Clopidogrel_388,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,316.46,5.62,5,3
+Aspirin_389,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,188.31,1.97,1,7
+Morphine_390,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,293.69,3.36,0,6
+Lisinopril_391,CC(C)CC(C(=O)O)N,ACE,Inactive,408.81,0.28,2,8
+Amlodipine_392,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,399.58,0.51,3,10
+Aspirin_393,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,172.74,5.96,5,0
+Atorvastatin_394,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,558.49,5.54,5,9
+Paracetamol_395,CC(=O)NC1=CC=C(O)C=C1,COX,Active,158.92,4.26,0,3
+Morphine_396,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,292.69,3.78,2,3
+Aspirin_397,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,189.56,3.58,0,2
+Atorvastatin_398,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,572.09,4.65,4,0
+Atorvastatin_399,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,559.25,2.24,0,6
+Warfarin_400,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,315.98,-0.45,5,0
+Hydrochlorothiazide_401,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,307.69,5.09,0,5
+Warfarin_402,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,308.39,1.92,2,10
+Aspirin_403,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,188.74,0.09,2,10
+Warfarin_404,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,311.71,0.43,0,0
+Warfarin_405,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,314.89,-0.32,5,7
+Aspirin_406,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,194.56,4.39,2,4
+Diclofenac_407,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,295.79,-0.03,4,0
+Simvastatin_408,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,424.74,5.86,4,4
+Amoxicillin_409,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,374.66,4.05,3,10
+Atorvastatin_410,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,560.72,1.47,2,8
+Diclofenac_411,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,284.66,0.95,0,9
+Losartan_412,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,436.8,-0.92,4,7
+Atorvastatin_413,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,558.99,1.71,4,4
+Omeprazole_414,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,336.54,4.83,5,4
+Morphine_415,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,291.01,0.91,4,3
+Atorvastatin_416,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,558.63,4.42,0,2
+Losartan_417,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,427.4,4.05,2,3
+Naproxen_418,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,227.84,0.93,2,2
+Amlodipine_419,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,409.99,2.29,0,0
+Aspirin_420,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,190.31,5.09,5,2
+Lisinopril_421,CC(C)CC(C(=O)O)N,ACE,Active,410.35,5.2,5,9
+Diclofenac_422,COC1=CC=C(C=C1)C(O)=O,COX,Active,297.16,4.02,4,10
+Diclofenac_423,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,282.83,0.86,1,2
+Amoxicillin_424,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,357.38,5.93,0,6
+Amoxicillin_425,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,377.98,4.06,2,9
+Aspirin_426,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,184.0,2.29,5,10
+Atorvastatin_427,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,571.65,1.42,2,0
+Hydrochlorothiazide_428,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,292.62,2.14,0,2
+Naproxen_429,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,233.35,5.02,5,8
+Amoxicillin_430,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,374.49,0.93,1,0
+Clopidogrel_431,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,311.39,4.11,0,5
+Morphine_432,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,285.85,1.32,1,1
+Metformin_433,CNC(=N)NC(=N)N,AMPK,Inactive,131.04,3.86,5,7
+Omeprazole_434,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,349.2,3.31,4,7
+Azithromycin_435,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,750.36,5.57,2,2
+Amoxicillin_436,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,371.57,3.56,0,1
+Paracetamol_437,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,145.12,4.5,2,6
+Caffeine_438,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,179.22,0.13,2,1
+Naproxen_439,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,217.45,-0.64,3,4
+Azithromycin_440,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,745.0,5.44,4,8
+Amlodipine_441,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,409.29,3.69,0,2
+Morphine_442,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,297.53,1.0,5,9
+Prednisone_443,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,346.85,1.86,5,8
+Prednisone_444,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,348.98,-0.17,0,6
+Prednisone_445,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,354.21,-0.06,1,3
+Lisinopril_446,CC(C)CC(C(=O)O)N,ACE,Active,399.12,-0.85,1,4
+Ibuprofen_447,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,194.15,4.35,0,5
+Diclofenac_448,COC1=CC=C(C=C1)C(O)=O,COX,Active,285.97,-0.37,1,7
+Naproxen_449,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,227.44,0.05,2,1
+Losartan_450,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,425.78,3.07,5,2
+Paracetamol_451,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,153.92,3.72,3,4
+Amlodipine_452,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,406.52,5.09,0,4
+Paracetamol_453,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,149.95,0.63,0,9
+Clopidogrel_454,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,325.81,4.46,0,4
+Ibuprofen_455,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,216.71,4.38,4,4
+Diclofenac_456,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,309.99,-0.68,4,10
+Atorvastatin_457,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,563.91,1.47,1,10
+Clopidogrel_458,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,325.55,4.77,3,4
+Metformin_459,CNC(=N)NC(=N)N,AMPK,Active,118.81,5.57,5,8
+Paracetamol_460,CC(=O)NC1=CC=C(O)C=C1,COX,Active,153.22,1.62,3,9
+Diclofenac_461,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,285.13,5.76,5,4
+Warfarin_462,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,301.09,-0.27,0,1
+Diclofenac_463,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,284.46,5.88,5,9
+Hydrochlorothiazide_464,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,308.26,2.5,4,1
+Azithromycin_465,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,754.77,5.55,1,10
+Ibuprofen_466,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,193.21,4.99,2,1
+Losartan_467,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,423.74,3.1,1,8
+Caffeine_468,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,202.93,-0.87,0,7
+Ibuprofen_469,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,206.98,1.28,1,5
+Prednisone_470,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,353.51,-0.37,2,7
+Metformin_471,CNC(=N)NC(=N)N,AMPK,Inactive,130.3,1.55,4,3
+Atorvastatin_472,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,569.06,2.74,4,0
+Amoxicillin_473,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,362.69,-0.96,4,2
+Caffeine_474,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,206.32,1.41,1,1
+Paracetamol_475,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,143.24,2.2,0,7
+Ibuprofen_476,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,195.08,3.96,3,0
+Simvastatin_477,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,413.83,2.82,0,2
+Simvastatin_478,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,417.45,0.79,3,10
+Ibuprofen_479,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,202.48,5.88,0,10
+Diclofenac_480,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,285.99,2.88,4,2
+Paracetamol_481,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,158.52,3.61,0,6
+Aspirin_482,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,177.99,3.82,1,3
+Warfarin_483,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,320.28,0.78,1,6
+Lisinopril_484,CC(C)CC(C(=O)O)N,ACE,Active,413.59,1.65,5,0
+Ibuprofen_485,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,205.52,2.24,4,2
+Metformin_486,CNC(=N)NC(=N)N,AMPK,Active,122.2,2.97,4,4
+Clopidogrel_487,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,307.08,3.88,5,8
+Azithromycin_488,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,760.42,2.29,3,2
+Azithromycin_489,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,737.49,5.37,1,10
+Azithromycin_490,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,737.79,1.97,0,5
+Prednisone_491,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,345.59,1.14,2,1
+Azithromycin_492,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,754.71,0.98,1,3
+Naproxen_493,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,235.98,3.22,1,1
+Prednisone_494,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,346.04,5.61,0,9
+Amoxicillin_495,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,363.94,1.9,4,1
+Omeprazole_496,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,341.38,-0.39,0,3
+Amlodipine_497,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,406.99,3.28,1,1
+Caffeine_498,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,198.73,4.88,4,7
+Amoxicillin_499,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,376.23,4.78,1,8
+Amoxicillin_500,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,371.11,5.77,4,5
+Amlodipine_501,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,395.79,5.98,2,1
+Amlodipine_502,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,416.39,0.2,2,4
+Omeprazole_503,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,336.15,4.02,2,9
+Clopidogrel_504,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,309.87,3.07,0,6
+Diclofenac_505,COC1=CC=C(C=C1)C(O)=O,COX,Active,283.3,-0.27,3,2
+Paracetamol_506,CC(=O)NC1=CC=C(O)C=C1,COX,Active,145.14,-0.42,1,0
+Omeprazole_507,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,330.46,-0.66,2,1
+Azithromycin_508,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,737.48,3.82,5,1
+Lisinopril_509,CC(C)CC(C(=O)O)N,ACE,Inactive,408.9,-0.28,1,6
+Metformin_510,CNC(=N)NC(=N)N,AMPK,Active,130.8,3.16,3,2
+Amoxicillin_511,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,356.61,4.55,4,5
+Diclofenac_512,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,299.64,3.83,1,6
+Atorvastatin_513,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,545.44,4.27,4,2
+Naproxen_514,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,232.57,0.65,4,4
+Warfarin_515,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,304.56,5.74,1,10
+Amlodipine_516,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,396.6,3.24,2,7
+Omeprazole_517,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,339.71,4.46,4,8
+Azithromycin_518,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,743.72,3.61,3,6
+Amoxicillin_519,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,364.24,1.94,5,6
+Omeprazole_520,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,358.12,2.06,3,5
+Naproxen_521,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,230.98,2.09,2,0
+Paracetamol_522,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,139.48,1.25,2,4
+Hydrochlorothiazide_523,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,304.51,2.04,5,8
+Clopidogrel_524,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,310.4,4.51,5,8
+Aspirin_525,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,187.42,1.62,3,1
+Amlodipine_526,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,404.61,0.39,4,10
+Prednisone_527,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,353.44,3.83,0,4
+Azithromycin_528,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,736.96,-0.89,1,4
+Simvastatin_529,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,426.03,-0.92,1,0
+Amoxicillin_530,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,351.3,-0.25,0,5
+Caffeine_531,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,204.6,4.97,0,1
+Atorvastatin_532,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,544.95,2.13,1,9
+Losartan_533,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,408.58,3.6,2,9
+Paracetamol_534,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,144.21,0.37,4,7
+Lisinopril_535,CC(C)CC(C(=O)O)N,ACE,Inactive,405.8,1.96,4,0
+Amoxicillin_536,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,362.11,5.39,2,10
+Caffeine_537,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,197.59,-0.85,4,0
+Morphine_538,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,274.2,1.91,3,7
+Amoxicillin_539,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,356.63,5.84,0,5
+Caffeine_540,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,184.09,-0.51,1,7
+Losartan_541,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,408.89,2.22,1,8
+Simvastatin_542,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,414.3,5.72,0,3
+Clopidogrel_543,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,306.84,-0.74,1,4
+Amlodipine_544,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,411.34,2.01,1,4
+Warfarin_545,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,300.85,3.06,4,10
+Naproxen_546,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,228.1,1.85,2,8
+Atorvastatin_547,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,549.8,-0.13,2,3
+Naproxen_548,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,225.51,5.67,2,4
+Clopidogrel_549,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,332.87,1.01,5,3
+Hydrochlorothiazide_550,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,305.16,1.45,2,10
+Ibuprofen_551,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,212.49,1.43,2,5
+Metformin_552,CNC(=N)NC(=N)N,AMPK,Active,114.71,-0.54,5,0
+Caffeine_553,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,202.42,2.11,1,1
+Naproxen_554,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,220.0,5.55,3,7
+Diclofenac_555,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,309.3,1.99,0,4
+Warfarin_556,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,313.74,4.46,1,9
+Naproxen_557,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,223.5,-0.4,4,9
+Azithromycin_558,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,741.26,3.01,2,2
+Azithromycin_559,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,762.68,1.3,1,10
+Ibuprofen_560,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,207.35,3.34,1,8
+Omeprazole_561,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,350.38,2.56,5,4
+Hydrochlorothiazide_562,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,310.63,0.84,0,7
+Ibuprofen_563,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,191.52,5.73,2,9
+Amlodipine_564,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,409.89,0.46,1,6
+Aspirin_565,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,185.95,6.0,1,0
+Losartan_566,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,419.0,1.0,2,1
+Prednisone_567,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,368.84,1.74,5,6
+Hydrochlorothiazide_568,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,289.36,3.75,0,7
+Metformin_569,CNC(=N)NC(=N)N,AMPK,Active,143.9,0.13,3,10
+Aspirin_570,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,170.79,0.17,4,6
+Naproxen_571,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,235.03,-0.62,2,5
+Warfarin_572,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,319.37,1.16,0,2
+Aspirin_573,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,195.0,4.32,5,8
+Aspirin_574,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,165.55,5.28,5,8
+Azithromycin_575,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,755.03,0.58,2,9
+Prednisone_576,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,359.34,4.17,4,5
+Morphine_577,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,298.96,0.04,3,4
+Morphine_578,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,272.68,2.46,4,5
+Paracetamol_579,CC(=O)NC1=CC=C(O)C=C1,COX,Active,150.09,1.94,1,9
+Omeprazole_580,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,336.15,2.31,0,1
+Ibuprofen_581,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,212.89,1.84,0,6
+Prednisone_582,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,344.06,3.77,4,4
+Caffeine_583,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,195.34,4.33,3,7
+Ibuprofen_584,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,218.95,2.54,0,5
+Amlodipine_585,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,423.1,3.53,0,5
+Ibuprofen_586,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,205.27,4.4,3,8
+Warfarin_587,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,297.12,5.44,4,3
+Atorvastatin_588,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,545.8,3.49,4,6
+Clopidogrel_589,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,327.87,0.9,1,1
+Naproxen_590,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,241.57,0.64,0,1
+Paracetamol_591,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,141.9,0.75,3,0
+Losartan_592,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,411.39,4.25,3,5
+Hydrochlorothiazide_593,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,287.86,2.37,2,4
+Omeprazole_594,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,333.99,-0.54,2,0
+Atorvastatin_595,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,561.19,5.54,1,8
+Lisinopril_596,CC(C)CC(C(=O)O)N,ACE,Inactive,405.39,3.3,2,0
+Atorvastatin_597,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,550.62,4.44,0,6
+Hydrochlorothiazide_598,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,285.51,1.1,1,4
+Losartan_599,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,418.7,5.08,4,0
+Atorvastatin_600,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,556.27,2.0,1,7
+Azithromycin_601,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,740.99,4.75,1,9
+Losartan_602,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,416.03,2.2,3,10
+Warfarin_603,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,312.88,3.35,5,0
+Atorvastatin_604,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,573.47,4.79,0,6
+Naproxen_605,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,215.46,4.77,2,10
+Simvastatin_606,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,414.49,5.7,2,2
+Omeprazole_607,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,338.19,5.64,4,10
+Azithromycin_608,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,741.16,-0.26,3,4
+Paracetamol_609,CC(=O)NC1=CC=C(O)C=C1,COX,Active,136.34,3.36,1,3
+Metformin_610,CNC(=N)NC(=N)N,AMPK,Inactive,133.71,-0.85,5,10
+Caffeine_611,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,205.47,4.7,3,7
+Hydrochlorothiazide_612,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,309.47,-0.87,5,8
+Amlodipine_613,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,417.27,2.94,2,3
+Simvastatin_614,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,414.95,5.83,3,0
+Atorvastatin_615,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,568.44,4.07,2,8
+Simvastatin_616,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,414.06,5.45,1,9
+Amoxicillin_617,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,364.07,4.24,0,3
+Caffeine_618,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,183.32,-0.94,0,7
+Caffeine_619,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,205.01,-0.94,4,8
+Prednisone_620,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,367.39,2.32,1,4
+Naproxen_621,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,222.85,-0.2,0,4
+Atorvastatin_622,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,562.53,-0.31,1,1
+Simvastatin_623,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,428.29,2.78,2,0
+Metformin_624,CNC(=N)NC(=N)N,AMPK,Active,140.57,5.24,2,4
+Paracetamol_625,CC(=O)NC1=CC=C(O)C=C1,COX,Active,161.84,0.36,1,3
+Azithromycin_626,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,758.55,2.87,4,2
+Prednisone_627,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,370.17,4.21,0,2
+Ibuprofen_628,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,192.57,0.16,2,8
+Amoxicillin_629,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,379.99,1.74,4,1
+Metformin_630,CNC(=N)NC(=N)N,AMPK,Active,127.81,1.79,5,4
+Prednisone_631,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,366.97,4.58,4,5
+Amoxicillin_632,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,355.58,3.01,5,8
+Ibuprofen_633,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,200.61,5.28,2,5
+Aspirin_634,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,194.85,3.98,2,2
+Paracetamol_635,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,164.91,3.47,2,7
+Simvastatin_636,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,403.59,2.74,3,7
+Lisinopril_637,CC(C)CC(C(=O)O)N,ACE,Inactive,403.72,3.75,0,6
+Amoxicillin_638,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,358.28,4.76,4,2
+Warfarin_639,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,306.64,1.38,5,4
+Morphine_640,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,281.19,-0.59,5,4
+Aspirin_641,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,187.87,4.46,0,7
+Caffeine_642,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,196.06,0.21,1,2
+Losartan_643,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,430.94,0.27,2,7
+Azithromycin_644,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,755.4,4.91,5,3
+Amoxicillin_645,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,350.44,0.46,4,5
+Prednisone_646,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,360.57,-0.03,2,7
+Morphine_647,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,279.62,0.64,1,6
+Simvastatin_648,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,405.58,-0.97,4,7
+Diclofenac_649,COC1=CC=C(C=C1)C(O)=O,COX,Active,296.86,3.36,5,0
+Morphine_650,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,287.67,5.99,5,8
+Amoxicillin_651,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,368.57,5.09,1,5
+Hydrochlorothiazide_652,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,283.12,3.42,0,7
+Morphine_653,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,287.3,5.77,5,8
+Paracetamol_654,CC(=O)NC1=CC=C(O)C=C1,COX,Active,161.4,3.97,1,9
+Atorvastatin_655,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,564.2,2.51,1,6
+Paracetamol_656,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,156.54,1.58,4,3
+Diclofenac_657,COC1=CC=C(C=C1)C(O)=O,COX,Active,287.02,1.15,1,7
+Metformin_658,CNC(=N)NC(=N)N,AMPK,Inactive,125.02,3.4,4,5
+Ibuprofen_659,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,195.81,-0.28,4,3
+Ibuprofen_660,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,201.15,1.55,4,1
+Hydrochlorothiazide_661,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,283.51,2.94,5,1
+Caffeine_662,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,195.15,1.86,5,3
+Amoxicillin_663,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,360.94,0.01,5,8
+Prednisone_664,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,360.78,-0.45,3,5
+Amlodipine_665,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,419.52,0.89,1,8
+Aspirin_666,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,169.88,3.84,5,0
+Simvastatin_667,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,405.34,0.94,2,1
+Morphine_668,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,292.5,0.32,5,10
+Diclofenac_669,COC1=CC=C(C=C1)C(O)=O,COX,Active,309.15,4.73,1,4
+Metformin_670,CNC(=N)NC(=N)N,AMPK,Active,133.07,4.58,4,9
+Clopidogrel_671,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,314.97,4.1,3,7
+Hydrochlorothiazide_672,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,288.86,4.96,1,1
+Azithromycin_673,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,756.92,0.92,3,10
+Prednisone_674,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,359.2,1.49,1,0
+Aspirin_675,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,167.57,0.82,4,7
+Metformin_676,CNC(=N)NC(=N)N,AMPK,Inactive,143.96,0.17,3,5
+Omeprazole_677,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,353.83,5.3,2,10
+Naproxen_678,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,236.51,3.01,4,5
+Prednisone_679,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,349.46,1.85,3,6
+Metformin_680,CNC(=N)NC(=N)N,AMPK,Inactive,136.57,3.03,3,3
+Clopidogrel_681,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,313.4,-0.52,5,6
+Aspirin_682,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,181.28,1.55,3,9
+Azithromycin_683,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,761.41,-0.34,5,8
+Metformin_684,CNC(=N)NC(=N)N,AMPK,Active,125.46,-0.12,3,6
+Prednisone_685,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,357.91,1.64,3,6
+Diclofenac_686,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,291.72,5.25,1,8
+Diclofenac_687,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,300.54,1.01,4,5
+Naproxen_688,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,237.79,2.65,2,3
+Caffeine_689,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,209.14,4.07,4,10
+Atorvastatin_690,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,549.29,0.03,5,6
+Losartan_691,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,432.19,-0.95,3,0
+Naproxen_692,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,243.87,-0.73,3,10
+Warfarin_693,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,298.13,2.78,3,2
+Simvastatin_694,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,409.89,-0.25,1,2
+Amlodipine_695,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,403.21,5.2,1,8
+Aspirin_696,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,168.68,1.09,2,4
+Ibuprofen_697,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,207.31,-0.87,1,7
+Losartan_698,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,425.24,4.33,2,2
+Atorvastatin_699,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,565.74,5.84,2,4
+Amoxicillin_700,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,380.22,-0.52,4,4
+Prednisone_701,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,370.94,-1.0,1,9
+Prednisone_702,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,359.55,5.9,5,1
+Ibuprofen_703,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,200.4,-0.41,0,5
+Paracetamol_704,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,164.47,5.24,0,4
+Omeprazole_705,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,343.16,2.57,5,6
+Metformin_706,CNC(=N)NC(=N)N,AMPK,Inactive,125.72,4.23,3,10
+Atorvastatin_707,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,554.37,-0.6,4,10
+Caffeine_708,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,190.41,4.25,4,2
+Clopidogrel_709,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,329.29,-0.74,2,8
+Caffeine_710,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,209.08,1.7,3,1
+Morphine_711,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,292.83,4.78,4,9
+Ibuprofen_712,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,205.46,1.94,4,4
+Clopidogrel_713,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,317.68,0.05,5,7
+Clopidogrel_714,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,321.89,1.89,5,1
+Ibuprofen_715,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,192.51,4.73,4,1
+Clopidogrel_716,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,327.5,1.45,0,8
+Ibuprofen_717,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,201.79,5.86,0,10
+Atorvastatin_718,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,548.79,2.58,4,10
+Diclofenac_719,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,287.93,4.27,4,8
+Aspirin_720,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,166.66,0.15,3,8
+Warfarin_721,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,312.63,2.82,1,4
+Simvastatin_722,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,428.86,-0.1,2,4
+Amlodipine_723,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,407.22,1.77,1,1
+Metformin_724,CNC(=N)NC(=N)N,AMPK,Active,141.46,1.05,4,8
+Simvastatin_725,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,428.82,0.99,0,6
+Azithromycin_726,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,735.99,2.99,1,6
+Naproxen_727,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,219.51,0.22,0,2
+Caffeine_728,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,198.05,1.78,4,4
+Amlodipine_729,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,410.07,5.12,4,1
+Ibuprofen_730,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,207.04,-0.05,3,2
+Azithromycin_731,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,762.78,0.16,4,0
+Clopidogrel_732,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,331.55,4.51,4,6
+Lisinopril_733,CC(C)CC(C(=O)O)N,ACE,Inactive,403.2,0.19,5,0
+Diclofenac_734,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,302.92,0.29,2,6
+Ibuprofen_735,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,216.23,4.41,4,8
+Diclofenac_736,COC1=CC=C(C=C1)C(O)=O,COX,Active,302.99,4.07,1,4
+Atorvastatin_737,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,564.71,0.88,1,10
+Lisinopril_738,CC(C)CC(C(=O)O)N,ACE,Active,417.39,-0.28,3,4
+Amoxicillin_739,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,378.46,-0.18,1,7
+Simvastatin_740,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,407.95,0.27,5,4
+Morphine_741,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,288.26,3.94,2,6
+Azithromycin_742,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,736.7,0.35,5,4
+Atorvastatin_743,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,551.15,3.74,3,9
+Azithromycin_744,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,738.05,1.94,1,3
+Omeprazole_745,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,333.27,-0.77,1,2
+Caffeine_746,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,190.68,2.06,1,4
+Diclofenac_747,COC1=CC=C(C=C1)C(O)=O,COX,Active,286.1,1.58,3,3
+Diclofenac_748,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,297.52,5.81,5,9
+Atorvastatin_749,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,550.93,-0.69,2,5
+Diclofenac_750,COC1=CC=C(C=C1)C(O)=O,COX,Active,292.93,4.77,5,3
+Clopidogrel_751,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,324.66,4.79,5,0
+Prednisone_752,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,370.22,-0.59,4,0
+Omeprazole_753,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,342.55,-0.08,0,2
+Caffeine_754,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,206.42,4.12,3,4
+Ibuprofen_755,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,195.29,3.77,3,5
+Morphine_756,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,272.97,-0.81,3,5
+Naproxen_757,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,242.94,3.8,5,3
+Lisinopril_758,CC(C)CC(C(=O)O)N,ACE,Inactive,395.48,2.53,0,10
+Prednisone_759,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,360.21,-0.37,0,0
+Aspirin_760,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,192.64,1.43,0,0
+Losartan_761,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,415.3,-0.49,5,10
+Atorvastatin_762,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,560.81,2.22,5,10
+Hydrochlorothiazide_763,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,305.84,-0.26,4,5
+Prednisone_764,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,367.1,-0.14,1,7
+Amlodipine_765,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,410.53,3.6,0,6
+Morphine_766,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,291.87,-0.08,2,0
+Ibuprofen_767,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,213.65,4.43,5,4
+Metformin_768,CNC(=N)NC(=N)N,AMPK,Inactive,142.85,1.59,2,10
+Omeprazole_769,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,334.55,0.66,5,6
+Ibuprofen_770,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,206.86,3.11,2,6
+Caffeine_771,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,189.89,1.41,0,2
+Diclofenac_772,COC1=CC=C(C=C1)C(O)=O,COX,Active,286.43,2.64,1,7
+Caffeine_773,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,185.23,4.15,2,4
+Ibuprofen_774,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,200.47,5.86,2,10
+Azithromycin_775,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,757.66,3.48,2,3
+Losartan_776,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,437.34,5.78,3,0
+Paracetamol_777,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,151.67,3.25,0,2
+Hydrochlorothiazide_778,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,294.37,2.08,1,10
+Ibuprofen_779,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,217.51,-0.58,0,3
+Omeprazole_780,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,340.35,-0.73,4,5
+Naproxen_781,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,242.01,1.31,2,4
+Morphine_782,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,294.89,4.0,4,9
+Naproxen_783,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,244.56,4.37,4,6
+Clopidogrel_784,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,316.97,3.07,0,2
+Amoxicillin_785,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,373.66,4.07,2,9
+Simvastatin_786,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,412.39,5.8,5,2
+Hydrochlorothiazide_787,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,308.09,4.63,3,3
+Losartan_788,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,430.2,3.24,2,7
+Omeprazole_789,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,343.45,4.55,3,2
+Lisinopril_790,CC(C)CC(C(=O)O)N,ACE,Active,413.87,1.32,2,4
+Ibuprofen_791,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,194.84,-0.76,4,2
+Warfarin_792,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,301.82,0.35,3,7
+Metformin_793,CNC(=N)NC(=N)N,AMPK,Active,137.51,3.15,2,7
+Metformin_794,CNC(=N)NC(=N)N,AMPK,Active,138.19,1.97,0,9
+Caffeine_795,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,182.42,3.86,4,0
+Paracetamol_796,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,162.18,5.94,1,6
+Metformin_797,CNC(=N)NC(=N)N,AMPK,Inactive,142.29,1.53,5,2
+Aspirin_798,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,179.39,5.78,0,8
+Diclofenac_799,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,297.08,2.84,1,6
+Warfarin_800,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,309.28,2.59,2,1
+Morphine_801,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,295.23,5.95,2,9
+Morphine_802,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,291.76,5.02,2,3
+Diclofenac_803,COC1=CC=C(C=C1)C(O)=O,COX,Active,308.13,0.75,1,8
+Morphine_804,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,296.94,4.71,4,1
+Ibuprofen_805,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,202.07,1.47,0,7
+Warfarin_806,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,322.98,4.19,1,5
+Paracetamol_807,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,161.78,0.55,1,1
+Lisinopril_808,CC(C)CC(C(=O)O)N,ACE,Active,411.84,5.67,4,3
+Hydrochlorothiazide_809,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,295.73,-0.4,3,10
+Amlodipine_810,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,416.61,0.79,2,9
+Prednisone_811,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,345.68,5.86,4,1
+Diclofenac_812,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,288.8,2.11,5,0
+Prednisone_813,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,344.11,3.71,0,2
+Caffeine_814,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,205.08,0.01,3,7
+Ibuprofen_815,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,196.02,3.58,1,7
+Lisinopril_816,CC(C)CC(C(=O)O)N,ACE,Active,414.31,1.75,2,8
+Atorvastatin_817,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,566.7,2.55,1,3
+Ibuprofen_818,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,193.93,5.71,4,0
+Lisinopril_819,CC(C)CC(C(=O)O)N,ACE,Inactive,393.85,0.07,0,7
+Simvastatin_820,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,426.47,3.79,0,4
+Omeprazole_821,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,339.2,0.87,5,2
+Caffeine_822,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,185.4,4.88,4,8
+Simvastatin_823,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,418.79,1.67,4,0
+Aspirin_824,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,169.75,-0.01,1,5
+Losartan_825,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,410.38,4.28,5,4
+Simvastatin_826,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,429.4,1.08,0,10
+Diclofenac_827,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,290.14,1.48,5,2
+Simvastatin_828,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,430.42,4.65,1,4
+Warfarin_829,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,309.97,0.16,3,7
+Clopidogrel_830,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,309.41,-0.95,5,1
+Hydrochlorothiazide_831,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,285.77,4.39,4,5
+Atorvastatin_832,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,566.23,2.43,1,10
+Morphine_833,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,279.42,3.57,2,7
+Ibuprofen_834,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,204.65,1.01,4,8
+Hydrochlorothiazide_835,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,306.77,1.24,2,5
+Prednisone_836,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,365.92,2.45,2,9
+Azithromycin_837,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,758.05,0.09,1,6
+Atorvastatin_838,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,551.79,-0.69,1,6
+Clopidogrel_839,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,324.36,4.33,4,5
+Ibuprofen_840,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,210.75,2.68,0,4
+Caffeine_841,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,195.3,5.72,2,9
+Caffeine_842,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,206.96,5.45,5,3
+Caffeine_843,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,199.77,3.71,5,1
+Caffeine_844,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,208.17,0.99,5,6
+Prednisone_845,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,352.95,2.39,0,0
+Diclofenac_846,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,292.59,1.56,3,5
+Prednisone_847,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,367.42,4.04,5,7
+Losartan_848,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,437.34,5.39,5,10
+Losartan_849,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,434.5,3.27,3,7
+Amoxicillin_850,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,354.78,3.3,2,9
+Diclofenac_851,COC1=CC=C(C=C1)C(O)=O,COX,Active,296.85,5.85,0,2
+Naproxen_852,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,222.38,1.32,4,9
+Azithromycin_853,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,735.43,3.16,1,1
+Clopidogrel_854,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,319.75,5.45,4,2
+Paracetamol_855,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,156.63,1.86,2,7
+Prednisone_856,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,347.02,-0.85,1,6
+Paracetamol_857,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,140.91,1.23,2,0
+Morphine_858,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,272.87,5.94,3,5
+Naproxen_859,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,223.52,3.97,4,9
+Lisinopril_860,CC(C)CC(C(=O)O)N,ACE,Inactive,404.81,-0.2,1,7
+Lisinopril_861,CC(C)CC(C(=O)O)N,ACE,Active,408.25,3.94,0,2
+Omeprazole_862,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,356.34,-0.4,5,5
+Metformin_863,CNC(=N)NC(=N)N,AMPK,Inactive,117.4,3.36,0,7
+Metformin_864,CNC(=N)NC(=N)N,AMPK,Inactive,119.01,1.13,2,0
+Morphine_865,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,276.6,4.36,1,7
+Metformin_866,CNC(=N)NC(=N)N,AMPK,Inactive,135.39,-0.46,3,5
+Hydrochlorothiazide_867,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,295.02,2.48,5,3
+Caffeine_868,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,202.95,3.46,0,2
+Clopidogrel_869,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,333.78,0.93,5,4
+Losartan_870,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,428.38,3.42,5,7
+Amlodipine_871,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,404.66,4.46,2,0
+Ibuprofen_872,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,201.28,3.06,5,3
+Omeprazole_873,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,347.25,-0.7,3,6
+Atorvastatin_874,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,559.5,1.92,4,8
+Lisinopril_875,CC(C)CC(C(=O)O)N,ACE,Active,417.99,3.11,0,0
+Warfarin_876,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,294.56,2.91,4,4
+Losartan_877,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,423.12,-0.02,1,7
+Prednisone_878,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,356.8,2.49,5,1
+Omeprazole_879,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,343.84,3.12,5,4
+Metformin_880,CNC(=N)NC(=N)N,AMPK,Active,120.61,4.01,0,0
+Losartan_881,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,434.71,2.4,0,4
+Ibuprofen_882,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,216.12,4.48,1,6
+Losartan_883,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,408.37,5.98,0,6
+Clopidogrel_884,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,318.02,1.37,2,5
+Simvastatin_885,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,426.12,0.02,2,2
+Hydrochlorothiazide_886,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,307.42,5.04,5,8
+Hydrochlorothiazide_887,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,291.14,3.42,1,9
+Prednisone_888,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,364.34,3.29,4,3
+Atorvastatin_889,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,546.75,4.86,2,4
+Amlodipine_890,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,411.25,5.19,2,2
+Paracetamol_891,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,139.98,4.33,1,0
+Amoxicillin_892,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,370.81,5.61,0,9
+Losartan_893,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,428.01,0.54,3,9
+Caffeine_894,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,199.59,1.53,3,7
+Caffeine_895,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,184.62,1.67,1,10
+Metformin_896,CNC(=N)NC(=N)N,AMPK,Active,141.01,4.25,2,2
+Atorvastatin_897,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,556.61,5.86,0,7
+Lisinopril_898,CC(C)CC(C(=O)O)N,ACE,Active,396.11,5.34,2,1
+Atorvastatin_899,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,551.81,3.18,0,8
+Aspirin_900,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,169.94,-0.99,5,7
+Naproxen_901,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,241.88,-0.15,0,8
+Morphine_902,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,275.36,1.58,5,5
+Lisinopril_903,CC(C)CC(C(=O)O)N,ACE,Active,412.22,3.52,0,6
+Simvastatin_904,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,428.28,1.54,2,6
+Aspirin_905,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,192.55,5.75,5,5
+Omeprazole_906,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,332.33,5.49,4,10
+Amoxicillin_907,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,353.76,2.94,4,5
+Omeprazole_908,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,332.53,3.88,0,4
+Ibuprofen_909,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,220.19,2.59,5,2
+Simvastatin_910,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,405.94,4.91,3,0
+Aspirin_911,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,177.32,0.34,4,10
+Prednisone_912,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,356.33,-0.79,4,5
+Ibuprofen_913,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,212.23,-0.94,0,9
+Ibuprofen_914,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,194.9,3.49,4,10
+Clopidogrel_915,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,319.52,-0.09,3,2
+Atorvastatin_916,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,548.51,5.24,0,3
+Paracetamol_917,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,141.4,1.79,0,9
+Caffeine_918,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,205.3,5.88,3,4
+Amlodipine_919,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,411.6,4.87,2,8
+Paracetamol_920,CC(=O)NC1=CC=C(O)C=C1,COX,Active,139.52,5.69,2,0
+Lisinopril_921,CC(C)CC(C(=O)O)N,ACE,Active,420.46,-0.3,2,0
+Omeprazole_922,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,331.99,1.82,4,0
+Azithromycin_923,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,750.7,0.81,0,2
+Warfarin_924,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,301.14,1.03,3,8
+Diclofenac_925,COC1=CC=C(C=C1)C(O)=O,COX,Active,298.03,-0.24,5,3
+Hydrochlorothiazide_926,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,297.92,3.67,2,6
+Hydrochlorothiazide_927,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,300.4,0.17,1,6
+Aspirin_928,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,187.42,0.81,0,0
+Naproxen_929,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,231.74,1.78,1,9
+Amlodipine_930,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,414.2,2.44,1,2
+Amlodipine_931,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,409.4,-0.88,0,1
+Atorvastatin_932,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,568.14,0.03,5,5
+Atorvastatin_933,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,563.43,0.1,4,9
+Atorvastatin_934,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,568.17,0.0,2,10
+Diclofenac_935,COC1=CC=C(C=C1)C(O)=O,COX,Active,288.9,2.89,4,0
+Warfarin_936,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,319.47,3.7,5,10
+Morphine_937,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,272.81,2.46,5,9
+Simvastatin_938,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,425.37,4.99,4,4
+Morphine_939,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,294.43,2.23,5,8
+Naproxen_940,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,242.79,5.44,2,6
+Amoxicillin_941,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,368.9,0.88,1,1
+Atorvastatin_942,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,545.57,1.54,4,9
+Naproxen_943,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,217.28,3.55,2,9
+Amlodipine_944,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,421.84,3.37,5,6
+Warfarin_945,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,315.02,-0.2,2,3
+Omeprazole_946,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,344.29,-0.36,2,10
+Caffeine_947,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,187.26,1.87,5,1
+Aspirin_948,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,193.38,3.41,4,6
+Amlodipine_949,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,405.75,1.93,2,2
+Metformin_950,CNC(=N)NC(=N)N,AMPK,Inactive,114.67,1.37,5,0
+Hydrochlorothiazide_951,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,304.29,2.04,2,2
+Clopidogrel_952,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,311.93,3.39,3,5
+Simvastatin_953,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,419.53,4.02,3,10
+Caffeine_954,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,204.23,3.46,4,7
+Morphine_955,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,287.17,2.08,1,5
+Clopidogrel_956,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,326.84,0.47,4,4
+Diclofenac_957,COC1=CC=C(C=C1)C(O)=O,COX,Active,303.41,5.7,1,6
+Omeprazole_958,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,336.94,2.47,0,1
+Naproxen_959,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,240.88,-0.62,5,7
+Simvastatin_960,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,424.35,1.6,2,0
+Naproxen_961,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,225.51,5.46,3,6
+Paracetamol_962,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,146.62,1.75,4,10
+Lisinopril_963,CC(C)CC(C(=O)O)N,ACE,Active,417.85,0.79,4,9
+Amoxicillin_964,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,363.47,1.43,2,9
+Diclofenac_965,COC1=CC=C(C=C1)C(O)=O,COX,Active,282.68,2.92,4,9
+Hydrochlorothiazide_966,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,297.94,-0.62,1,5
+Hydrochlorothiazide_967,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,296.48,-0.21,2,0
+Warfarin_968,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,304.22,-0.89,3,3
+Caffeine_969,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,185.67,1.6,5,7
+Amoxicillin_970,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,362.67,1.77,3,4
+Aspirin_971,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,171.5,2.02,3,10
+Caffeine_972,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,196.89,-0.46,2,0
+Amoxicillin_973,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,351.02,1.31,1,6
+Morphine_974,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,299.24,2.77,0,7
+Ibuprofen_975,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,207.44,5.78,3,6
+Clopidogrel_976,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,312.6,1.99,4,0
+Omeprazole_977,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,343.5,5.09,4,9
+Atorvastatin_978,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,546.15,2.32,3,9
+Warfarin_979,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,296.53,1.44,4,8
+Losartan_980,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,433.26,5.28,1,10
+Omeprazole_981,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,359.87,5.21,0,0
+Diclofenac_982,COC1=CC=C(C=C1)C(O)=O,COX,Active,290.17,2.38,1,8
+Ibuprofen_983,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,202.94,2.01,3,0
+Ibuprofen_984,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,193.61,1.65,2,3
+Clopidogrel_985,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,309.91,1.61,3,9
+Ibuprofen_986,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,209.28,3.93,2,3
+Hydrochlorothiazide_987,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,302.69,0.27,2,3
+Caffeine_988,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,200.72,1.76,2,3
+Metformin_989,CNC(=N)NC(=N)N,AMPK,Active,125.02,1.86,5,9
+Prednisone_990,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,343.62,3.67,2,4
+Losartan_991,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,413.63,-0.78,0,2
+Hydrochlorothiazide_992,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,302.22,5.56,2,6
+Simvastatin_993,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,418.92,1.47,1,3
+Azithromycin_994,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,759.39,5.48,0,7
+Warfarin_995,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,322.42,5.35,5,0
+Hydrochlorothiazide_996,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,287.77,0.48,1,4
+Aspirin_997,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,170.81,1.13,0,2
+Aspirin_998,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,183.35,2.48,5,6
+Hydrochlorothiazide_999,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,283.62,3.96,5,9
+Caffeine_1000,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,193.91,-0.76,4,9
+Clopidogrel_1001,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,334.46,0.97,0,1
+Hydrochlorothiazide_1002,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,309.91,2.73,4,2
+Paracetamol_1003,CC(=O)NC1=CC=C(O)C=C1,COX,Active,151.63,-0.69,5,8
+Clopidogrel_1004,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,319.17,-0.34,3,9
+Morphine_1005,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,284.21,0.74,5,10
+Diclofenac_1006,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,291.98,2.14,4,10
+Amlodipine_1007,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,411.98,3.78,5,1
+Ibuprofen_1008,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,219.72,1.59,2,7
+Atorvastatin_1009,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,564.55,1.02,2,4
+Aspirin_1010,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,175.54,0.21,1,6
+Paracetamol_1011,CC(=O)NC1=CC=C(O)C=C1,COX,Active,161.64,2.23,5,3
+Paracetamol_1012,CC(=O)NC1=CC=C(O)C=C1,COX,Active,147.02,0.42,0,0
+Metformin_1013,CNC(=N)NC(=N)N,AMPK,Inactive,118.88,-0.88,4,10
+Diclofenac_1014,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,293.93,5.92,0,4
+Lisinopril_1015,CC(C)CC(C(=O)O)N,ACE,Active,416.13,4.96,3,2
+Lisinopril_1016,CC(C)CC(C(=O)O)N,ACE,Inactive,391.95,-0.12,4,6
+Naproxen_1017,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,223.23,0.23,4,10
+Simvastatin_1018,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,429.0,4.39,3,3
+Metformin_1019,CNC(=N)NC(=N)N,AMPK,Active,134.06,3.35,3,2
+Hydrochlorothiazide_1020,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,284.28,3.35,5,5
+Paracetamol_1021,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,145.46,3.53,3,8
+Metformin_1022,CNC(=N)NC(=N)N,AMPK,Active,130.3,-0.54,1,1
+Azithromycin_1023,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,763.12,3.82,4,3
+Aspirin_1024,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,186.96,-0.33,0,8
+Metformin_1025,CNC(=N)NC(=N)N,AMPK,Active,117.02,3.61,1,1
+Amoxicillin_1026,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,366.61,4.25,3,8
+Losartan_1027,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,425.08,0.53,4,2
+Simvastatin_1028,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,407.33,3.67,5,8
+Simvastatin_1029,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,426.06,0.77,0,9
+Amoxicillin_1030,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,356.9,1.66,5,4
+Losartan_1031,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,408.61,-0.17,2,7
+Azithromycin_1032,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,740.73,0.3,0,0
+Ibuprofen_1033,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,201.29,3.29,0,4
+Metformin_1034,CNC(=N)NC(=N)N,AMPK,Inactive,129.65,0.06,3,6
+Morphine_1035,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,289.36,0.05,2,3
+Warfarin_1036,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,316.37,0.36,3,3
+Paracetamol_1037,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,140.49,-0.74,4,2
+Ibuprofen_1038,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,202.28,-0.07,5,10
+Diclofenac_1039,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,285.96,-0.18,5,8
+Aspirin_1040,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,167.78,-0.04,1,4
+Paracetamol_1041,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,148.96,4.36,1,10
+Caffeine_1042,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,199.47,3.32,5,7
+Morphine_1043,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,291.82,1.66,0,3
+Amlodipine_1044,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,421.58,1.65,1,10
+Amoxicillin_1045,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,359.06,4.83,3,10
+Lisinopril_1046,CC(C)CC(C(=O)O)N,ACE,Active,400.56,1.31,0,9
+Amoxicillin_1047,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,355.08,5.3,1,8
+Prednisone_1048,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,361.88,1.28,5,8
+Clopidogrel_1049,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,329.07,0.58,4,7
+Hydrochlorothiazide_1050,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,285.73,-0.3,3,3
+Warfarin_1051,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,319.65,2.35,0,6
+Atorvastatin_1052,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,567.88,-0.52,1,0
+Simvastatin_1053,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,408.26,2.16,5,6
+Omeprazole_1054,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,345.54,3.91,3,8
+Amlodipine_1055,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,415.78,-0.85,0,8
+Azithromycin_1056,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,749.68,1.75,0,3
+Metformin_1057,CNC(=N)NC(=N)N,AMPK,Inactive,130.16,4.35,4,2
+Naproxen_1058,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,215.39,4.54,5,2
+Aspirin_1059,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,191.21,3.63,4,1
+Hydrochlorothiazide_1060,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,283.26,2.59,5,1
+Hydrochlorothiazide_1061,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,293.92,1.04,0,6
+Aspirin_1062,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,169.31,2.32,1,1
+Atorvastatin_1063,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,548.71,3.68,1,3
+Azithromycin_1064,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,763.47,4.98,3,5
+Morphine_1065,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,279.01,2.56,1,5
+Clopidogrel_1066,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,332.19,2.61,5,8
+Lisinopril_1067,CC(C)CC(C(=O)O)N,ACE,Active,399.27,5.39,2,4
+Hydrochlorothiazide_1068,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,303.77,2.66,5,0
+Prednisone_1069,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,372.85,4.57,2,0
+Amlodipine_1070,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,394.2,5.84,1,3
+Simvastatin_1071,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,406.59,2.75,5,3
+Aspirin_1072,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,195.15,5.79,4,4
+Morphine_1073,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,280.19,4.34,3,0
+Metformin_1074,CNC(=N)NC(=N)N,AMPK,Inactive,127.82,4.56,1,3
+Morphine_1075,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,285.09,4.87,1,1
+Naproxen_1076,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,244.24,3.84,0,3
+Amlodipine_1077,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,423.75,1.43,0,10
+Paracetamol_1078,CC(=O)NC1=CC=C(O)C=C1,COX,Inactive,138.36,-0.06,3,6
+Atorvastatin_1079,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,570.94,3.84,2,10
+Prednisone_1080,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,348.62,-0.22,0,2
+Amlodipine_1081,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,416.0,1.3,4,6
+Caffeine_1082,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,207.02,5.66,1,0
+Amlodipine_1083,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,394.2,5.92,5,7
+Lisinopril_1084,CC(C)CC(C(=O)O)N,ACE,Inactive,391.26,4.86,1,7
+Omeprazole_1085,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,351.83,5.02,5,4
+Prednisone_1086,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Inactive,362.83,4.53,0,5
+Caffeine_1087,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,184.08,-0.53,2,3
+Omeprazole_1088,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,341.36,2.32,2,4
+Diclofenac_1089,COC1=CC=C(C=C1)C(O)=O,COX,Active,284.49,4.51,0,6
+Prednisone_1090,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,367.2,3.39,3,0
+Amoxicillin_1091,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,376.43,4.81,0,0
+Clopidogrel_1092,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,323.67,-0.95,0,9
+Diclofenac_1093,COC1=CC=C(C=C1)C(O)=O,COX,Active,287.54,0.56,4,8
+Warfarin_1094,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,301.62,2.37,4,0
+Paracetamol_1095,CC(=O)NC1=CC=C(O)C=C1,COX,Active,143.21,5.55,2,10
+Warfarin_1096,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,305.97,5.81,5,2
+Atorvastatin_1097,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,545.31,2.59,4,1
+Prednisone_1098,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,349.57,-0.56,0,0
+Simvastatin_1099,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,408.44,0.08,1,0
+Diclofenac_1100,COC1=CC=C(C=C1)C(O)=O,COX,Active,282.14,2.21,5,5
+Simvastatin_1101,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,429.21,-0.33,3,1
+Caffeine_1102,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,179.26,3.16,0,5
+Lisinopril_1103,CC(C)CC(C(=O)O)N,ACE,Inactive,408.77,4.84,3,6
+Lisinopril_1104,CC(C)CC(C(=O)O)N,ACE,Active,393.33,5.3,0,8
+Caffeine_1105,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Active,202.45,0.81,0,0
+Aspirin_1106,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,176.01,4.2,3,1
+Ibuprofen_1107,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,210.77,1.64,0,10
+Naproxen_1108,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,239.93,5.27,3,9
+Hydrochlorothiazide_1109,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,294.26,2.1,5,1
+Paracetamol_1110,CC(=O)NC1=CC=C(O)C=C1,COX,Active,142.51,2.0,1,6
+Omeprazole_1111,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,357.26,0.73,2,2
+Ibuprofen_1112,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,199.73,-0.48,4,4
+Warfarin_1113,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,294.35,3.94,2,1
+Morphine_1114,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,292.87,-0.23,2,10
+Diclofenac_1115,COC1=CC=C(C=C1)C(O)=O,COX,Active,297.16,3.17,5,4
+Losartan_1116,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,433.05,4.59,2,6
+Hydrochlorothiazide_1117,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,308.11,4.51,5,10
+Aspirin_1118,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Inactive,174.35,0.09,4,8
+Omeprazole_1119,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,355.94,5.87,5,9
+Naproxen_1120,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,234.21,3.98,3,1
+Warfarin_1121,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,315.53,3.03,1,7
+Azithromycin_1122,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,748.38,3.16,3,4
+Simvastatin_1123,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,408.18,0.53,4,0
+Omeprazole_1124,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Inactive,354.04,2.79,3,5
+Azithromycin_1125,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,748.04,-0.8,0,6
+Hydrochlorothiazide_1126,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,308.27,-0.39,1,1
+Clopidogrel_1127,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,331.6,0.73,1,4
+Prednisone_1128,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,361.54,1.41,3,4
+Atorvastatin_1129,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,569.25,3.62,5,3
+Metformin_1130,CNC(=N)NC(=N)N,AMPK,Active,142.54,5.24,1,5
+Diclofenac_1131,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,310.77,4.6,0,9
+Hydrochlorothiazide_1132,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,309.82,3.08,4,0
+Atorvastatin_1133,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,570.73,1.82,0,8
+Atorvastatin_1134,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,562.3,2.62,1,0
+Omeprazole_1135,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,332.05,-0.24,3,0
+Ibuprofen_1136,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,207.03,4.18,1,6
+Metformin_1137,CNC(=N)NC(=N)N,AMPK,Inactive,126.54,5.45,0,2
+Atorvastatin_1138,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,560.67,1.12,3,10
+Aspirin_1139,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,190.63,3.44,0,4
+Warfarin_1140,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,308.57,2.71,0,2
+Omeprazole_1141,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,342.88,2.35,1,1
+Metformin_1142,CNC(=N)NC(=N)N,AMPK,Active,126.72,1.62,1,10
+Atorvastatin_1143,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Inactive,560.22,5.01,5,1
+Clopidogrel_1144,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Inactive,310.13,0.74,5,8
+Ibuprofen_1145,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,219.75,0.31,3,8
+Simvastatin_1146,CCC(C)(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,419.94,2.04,4,9
+Hydrochlorothiazide_1147,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Active,287.3,3.54,1,6
+Naproxen_1148,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,218.89,3.6,3,10
+Metformin_1149,CNC(=N)NC(=N)N,AMPK,Active,117.06,2.92,2,7
+Diclofenac_1150,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,305.32,4.47,3,9
+Amlodipine_1151,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,395.46,4.75,4,8
+Amoxicillin_1152,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Active,362.83,-0.1,0,8
+Prednisone_1153,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,345.15,2.3,4,8
+Ibuprofen_1154,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Active,218.23,0.51,0,9
+Lisinopril_1155,CC(C)CC(C(=O)O)N,ACE,Active,409.0,4.14,2,1
+Caffeine_1156,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,192.64,0.53,5,9
+Diclofenac_1157,COC1=CC=C(C=C1)C(O)=O,COX,Inactive,295.68,5.83,1,2
+Warfarin_1158,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,301.71,4.27,4,2
+Hydrochlorothiazide_1159,CC(C)(C)S(=O)(=O)N,Diuretic receptor,Inactive,300.65,5.77,5,10
+Naproxen_1160,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,241.66,1.1,1,10
+Aspirin_1161,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,174.43,0.19,3,7
+Warfarin_1162,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,309.33,-0.71,0,9
+Lisinopril_1163,CC(C)CC(C(=O)O)N,ACE,Active,417.4,3.32,1,1
+Metformin_1164,CNC(=N)NC(=N)N,AMPK,Active,143.56,3.45,5,0
+Amlodipine_1165,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,402.25,0.11,5,8
+Ibuprofen_1166,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,Inactive,201.13,2.2,4,9
+Lisinopril_1167,CC(C)CC(C(=O)O)N,ACE,Inactive,395.34,-0.91,3,9
+Caffeine_1168,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,205.3,2.91,4,0
+Diclofenac_1169,COC1=CC=C(C=C1)C(O)=O,COX,Active,303.64,5.45,4,8
+Azithromycin_1170,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,750.66,0.34,2,9
+Caffeine_1171,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,208.88,5.13,0,0
+Aspirin_1172,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,171.78,-0.37,5,9
+Metformin_1173,CNC(=N)NC(=N)N,AMPK,Inactive,131.38,0.18,2,8
+Omeprazole_1174,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,334.79,-0.17,4,7
+Losartan_1175,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Inactive,422.56,5.6,1,2
+Warfarin_1176,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,315.6,1.06,0,0
+Clopidogrel_1177,CC(C)OC1=CC=C(C=C1)Cl,Platelet receptor,Active,328.37,2.94,2,8
+Lisinopril_1178,CC(C)CC(C(=O)O)N,ACE,Active,411.63,5.33,0,4
+Losartan_1179,CC1=CC=C(C=C1)C(=O)O,Angiotensin receptor,Active,432.12,0.18,0,3
+Atorvastatin_1180,CC(C)C1=CC=C(C=C1)C(C)C(=O)O,HMG-CoA reductase,Active,569.48,2.14,3,8
+Naproxen_1181,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,217.62,3.74,3,5
+Morphine_1182,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Active,270.99,0.26,2,4
+Naproxen_1183,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Active,236.65,2.28,3,10
+Azithromycin_1184,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Inactive,754.72,0.09,3,8
+Azithromycin_1185,CC(C)C1=NC2=C(N1)C=CC=C2,Bacterial ribosome,Active,741.33,2.1,3,1
+Omeprazole_1186,CC1=CN=C(N1)S(=O)(=O)N,Proton pump,Active,337.81,-0.88,2,5
+Amoxicillin_1187,CC1(C)SCC(N1C(=O)O)C(=O)O,Bacterial cell wall,Inactive,355.64,3.97,0,4
+Diclofenac_1188,COC1=CC=C(C=C1)C(O)=O,COX,Active,302.4,2.59,5,5
+Metformin_1189,CNC(=N)NC(=N)N,AMPK,Active,138.09,3.72,3,2
+Warfarin_1190,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,317.8,4.27,5,6
+Caffeine_1191,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Adenosine receptor,Inactive,196.15,4.61,3,6
+Warfarin_1192,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Inactive,293.98,0.67,2,2
+Amlodipine_1193,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Active,397.09,4.52,5,10
+Naproxen_1194,CC(C)CC1=CC=C(C=C1)C(O)=O,COX,Inactive,226.09,0.7,3,3
+Warfarin_1195,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,298.44,5.51,0,8
+Aspirin_1196,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,Active,181.92,3.88,5,7
+Amlodipine_1197,CC(C)NCC(COC1=CC=CC=C1)O,Calcium channel,Inactive,400.38,2.14,3,4
+Warfarin_1198,CC(=O)CC(C1=CC=CC=C1)C(=O)O,Vitamin K epoxide reductase,Active,320.4,0.28,0,7
+Morphine_1199,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O3,Opioid receptor,Inactive,285.83,4.12,1,5
+Prednisone_1200,CCC(=O)OCC(O)CO,Glucocorticoid receptor,Active,371.26,3.87,5,8
